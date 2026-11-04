@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Store Insights Dashboard
 
 An interactive Streamlit dashboard for exploring order, sales, customer, marketing, payment,
@@ -17,3 +18,6 @@ totals are displayed in one selected currency at a time and are not converted be
 The requested `E-commerce Store Insights.ipynb` and the attached `ecommerce_sales_data.csv`
 were not available when this dashboard was created. The included dashboard data is the
 available `ecommerce_sales_customer_analytics_150k.csv`.
+=======
+# E-commerce-sales-dashboard
+>>>>>>> b6ac31b255bfb6a3dd08b62fd54680d5da7a092b
